@@ -13,7 +13,7 @@ S :: Style
 / :: |
 ```
 
-| E.x && (E.x).N | .mean=(... _ Eng  _ Eng _ ... [.hs] /) | # (? some=>^1)
-| ---            | ---      | # ---
-| T^(-1) : (T_www_)      | time_conv.hs | # ---
-| | | # ---
+| E.x && (E.x).N | .mean=(... _ Eng  _ Eng _ ... [.hs] /) | # (? some=>^1)  
+| ---            | ---      | # ---  
+| T^(-1) : (T_www_)      | time_conv.hs | # ---  
+| | | # ---  
